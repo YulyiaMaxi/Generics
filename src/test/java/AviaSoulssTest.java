@@ -1,10 +1,9 @@
-
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 import java.util.Comparator;
 
-class AviaSoulsTet {
+public class AviaSoulssTest {
     @Test
     public void testCompareByPrice() {
         AviaSouls manager = new AviaSouls();
